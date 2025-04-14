@@ -1,4 +1,4 @@
-## You can visit our team page via this [link](https://cse110-sp25-team18.github.io/) or navigate to this [file](./admin/team.md)
+## You can visit our team page via this [link](https://cse110-sp25-group18.github.io/) or navigate to this [file](./admin/team.md)
 
 # General Development Workflow
 

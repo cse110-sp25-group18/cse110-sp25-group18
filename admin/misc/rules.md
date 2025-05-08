@@ -1,6 +1,6 @@
 # Team Charter - Rules
 
-## Team Values/pirnciples
+## Team Values/principles
 1. accountability
 2. having a supportive team
 3. fair distribution of tasks

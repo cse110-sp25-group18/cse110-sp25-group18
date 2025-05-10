@@ -2,9 +2,9 @@ name: Generate JSDoc
 
 on:
   push:
-    branches: [ main, jsdoc-implementation]
+    branches: [ jsdoc-implementation ]
   pull_request:
-    branches: [ main ]
+    branches: [ jsdoc-implementation ]
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages

@@ -18,18 +18,11 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '16'
-        
     - name: Install dependencies
       run: npm install
-        - name: Generate JSDoc
-      run: npm run docs
       
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      if: github.ref == 'refs/heads/main'
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
+    - name: Generate JSDoc
+      run: npm run docs
       
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3

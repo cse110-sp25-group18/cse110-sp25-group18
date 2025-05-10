@@ -2,7 +2,7 @@ name: Generate JSDoc
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, jsdoc-implementation]
   pull_request:
     branches: [ main ]
   workflow_dispatch:

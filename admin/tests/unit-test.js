@@ -1,5 +1,5 @@
 // Function Unit Tests
-import { subtract } from 'admin/code-to-unit-tests/unit.test.js';
+import { subtract } from '../code-to-unit-tests/unit.test';
 
 test('subtracts 2 - 1 to equal 1', () => {
     expect(2 - 1).toBe(1);

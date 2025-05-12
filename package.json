@@ -7,12 +7,7 @@
   },
   "scripts": {
     "docs": "jsdoc -c jsdoc.json",
-<<<<<<< HEAD
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
-=======
-     "test": "node",
-     "type": "module"
->>>>>>> a07a4caa6fed57133651b497ebc75319fd8ddfce
   },
   "type": "module",
   "jest": {

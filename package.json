@@ -1,11 +1,22 @@
 {
   "name": "cse110-sp25-group18",
   "version": "1.0.0",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdoc": "^4.0.4"
+  },
   "scripts": {
     "docs": "jsdoc -c jsdoc.json",
-     "test": "node"
+<<<<<<< HEAD
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+=======
+     "test": "node",
+     "type": "module"
+>>>>>>> a07a4caa6fed57133651b497ebc75319fd8ddfce
   },
-  "devDependencies": {
-    "jsdoc": "^4.0.4"
+  "type": "module",
+  "jest": {
+    "transform": {},
+    "verbose": true
   }
 }

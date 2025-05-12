@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "docs": "jsdoc -c jsdoc.json",
-     "test": "node"
+     "test": "node",
+     "type": "module"
   },
   "devDependencies": {
     "jsdoc": "^4.0.4"

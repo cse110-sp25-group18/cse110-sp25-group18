@@ -2,7 +2,8 @@
   "name": "cse110-sp25-group18",
   "version": "1.0.0",
   "scripts": {
-    "docs": "jsdoc -c jsdoc.json"
+    "docs": "jsdoc -c jsdoc.json",
+     "test": "node"
   },
   "devDependencies": {
     "jsdoc": "^4.0.4"

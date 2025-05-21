@@ -1,4 +1,4 @@
-# Retrospective 1
+# Retrospective: Pre-Sprint
 
 In Attendance: Angel, Chen, Max, Ryan, Kayla, Domonick, Thomas, Ashton, Justin, Alan, Daniel, Ashley
 

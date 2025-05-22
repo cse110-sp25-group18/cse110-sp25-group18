@@ -1,5 +1,7 @@
 ## You can visit our team page via this [link](https://cse110-sp25-group18.github.io/) or navigate to this [file](./admin/team.md)
 
+## Sprint 1 Status Video: [ YouTube link](https://youtu.be/RpdqqDDczcs)
+
 # General Development Workflow
 
 1. **Clone the repository**  

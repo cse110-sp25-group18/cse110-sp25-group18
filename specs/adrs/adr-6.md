@@ -14,3 +14,6 @@ Several team members will be working together on designing different parts of ou
 
 Chosen option: We will be using Figma to create our wireframes and design the overall look of our website in a way that is effective and collaborative.
 
+## Related:
+
+This ADR changed the decision from [ADR 02](./adr-2.md)

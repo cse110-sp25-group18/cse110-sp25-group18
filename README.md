@@ -1,6 +1,10 @@
 ## You can visit our team page via this [link](https://cse110-sp25-group18.github.io/) or navigate to this [file](./admin/team.md)
 
-## Sprint 1 Status Video: [ YouTube link](https://youtu.be/RpdqqDDczcs)
+## Sprint 1 Status Video: [YouTube link](https://youtu.be/RpdqqDDczcs)
+
+## Project Repo in this [link](https://github.com/cse110-sp25-group18/project-card-journaling.git)
+
+## Prompted: Card Project website [link](https://cse110-sp25-group18.github.io/project-card-journaling/)
 
 # General Development Workflow
 

@@ -6,6 +6,8 @@
 
 ## Prompted: Card Project website [link](https://cse110-sp25-group18.github.io/project-card-journaling/)
 
+### To continue future implementations of *Prompted*, follow the General Development Workflow guidelines below, and read our [In Progress](./specs/in-progress.md) document for next steps.
+
 # General Development Workflow
 
 1. **Clone the repository**  

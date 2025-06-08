@@ -1,5 +1,9 @@
 # 06. Use Figma for Wireframe Design
 
+## Date
+
+2025-05-25
+
 ## Context and Problem Statement
 
 How can we create wireframe designs and mockups of our website results collaboratively?

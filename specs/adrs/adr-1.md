@@ -1,4 +1,8 @@
-# Use Jest for testing
+# 01. Use Jest for Testing
+
+## Date
+
+2025-05-08
 
 ## Context and Problem Statement
 
@@ -7,6 +11,7 @@ How to have a preliminary test before code is pushed?
 What type of preliminary testing do we want?
 
 ## Considered Options
+
 - Jest (used in Lab) - Useful for testing individual methods, separate parts
 - Other JavaScript testing frameworks (e.g. Mocha, Chai, Jasmine)
 

@@ -2,6 +2,8 @@
 
 ## Sprint 1 Status Video: [YouTube link](https://youtu.be/RpdqqDDczcs)
 
+## Final Public Video: [Youtube link](https://youtu.be/QG-E-mCjo_Q)
+
 ## Project Repo in this [link](https://github.com/cse110-sp25-group18/project-card-journaling.git)
 
 ## Prompted: Card Project website [link](https://cse110-sp25-group18.github.io/project-card-journaling/)

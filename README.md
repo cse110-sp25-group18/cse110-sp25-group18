@@ -4,6 +4,8 @@
 
 ## Final Public Video: [Youtube link](https://youtu.be/QG-E-mCjo_Q)
 
+## Final Private Video: [Youtube link](https://youtu.be/Osd4nrjDcHY?si=nmbTLqUqD5Hx-z7r)
+
 ## Project Repo in this [link](https://github.com/cse110-sp25-group18/project-card-journaling.git)
 
 ## Prompted: Card Project website [link](https://cse110-sp25-group18.github.io/project-card-journaling/)
